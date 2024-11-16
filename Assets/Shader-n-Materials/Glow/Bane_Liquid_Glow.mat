@@ -182,7 +182,7 @@ Material:
     - _DstBlend: 0
     - _Emission_Contrast: 0
     - _Emission_Exposure: -8
-    - _Emission_Intensity: 4
+    - _Emission_Intensity: 6
     - _Emission_Speed: 4
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
@@ -274,6 +274,7 @@ Material:
     - _Base_Color: {r: 0.1254902, g: 0.627451, b: 0.1882353, a: 1}
     - _Color: {r: 0.12477186, g: 0.63075733, b: 0.1878208, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
+    - _Direction_Liquid: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}

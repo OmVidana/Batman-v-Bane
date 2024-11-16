@@ -62,8 +62,8 @@ Material:
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
     - _DstBlend: 0
-    - _Emission_Exposure: -8
-    - _Emission_Intensity: 4
+    - _Emission_Exposure: 0
+    - _Emission_Intensity: 10
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
